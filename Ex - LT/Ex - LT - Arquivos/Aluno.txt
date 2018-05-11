@@ -1,0 +1,10 @@
+Nome:Fernanda
+Número:388834
+Curso:Computação
+Nota 1:10.0
+Nota 2:10.0
+Nome:Gabriel
+Número:13
+Curso:Segundo ano EM
+Nota 1:10.0
+Nota 2:10.0
